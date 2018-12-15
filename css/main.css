@@ -7,7 +7,7 @@
 }
 .wrapper{min-width: 320px;}
 .wr-header{
-	background: url('../img/bg-header.JPG');
+	background: url('../img/bg-header.jpg');
 	background-size: cover;
 	background-position: center;
 }
@@ -20,7 +20,7 @@
 }
 
 .wr-login {
-	background: url('../img/bg-login.JPG');
+	background: url('../img/bg-login.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 121px;
@@ -239,7 +239,7 @@ p.hello{
 
 .tarif-bg{
 	height: 380px;
-	background: url('../images/tarif-bg.JPG');
+	background: url('../images/tarif-bg.jpg');
 }
 
 .pack {
@@ -792,7 +792,7 @@ top: -280px;
 /* quote */
 .quote{
 	height: 190px;
-	background: url('../img/bg-jowDoe.JPG');
+	background: url('../img/bg-jowDoe.jpg');
 	background-size: cover;
 	background-position: center;
 	padding: 0px 0 0 0px;
